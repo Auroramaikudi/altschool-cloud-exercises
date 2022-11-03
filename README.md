@@ -6,3 +6,6 @@ hello
 </br>
 
 <a> # helli </a>
+
+![screenshot](./images/exercise%201.png "temitope's screenshot")
+
